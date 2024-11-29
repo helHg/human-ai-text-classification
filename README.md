@@ -1,8 +1,6 @@
 # Human-AI Text Classification
 
-This repository contains the code and resources for the **"Human-AI Text Classification"** project, conducted as part of the *COLING-2025 Workshop on MGT Detection Task 1 Public*. The project aimed to classify English text as either human-written or AI-generated, addressing challenges such as class imbalance and exploring fine-tuning strategies for large language models (LLMs).
-
-The competition instructions can be found [here](https://github.com/mbzuai-nlp/COLING-2025-Workshop-on-MGT-Detection-Task1/tree/main).
+This repository contains the code and resources for the **"Human-AI Text Classification"** project, conducted as part of the [*COLING-2025 Workshop on MGT Detection Task 1 Public*](https://github.com/mbzuai-nlp/COLING-2025-Workshop-on-MGT-Detection-Task1/tree/main). The project aimed to classify English text as either human-written or AI-generated, addressing challenges such as class imbalance and exploring fine-tuning strategies for large language models (LLMs).
 
 ## Repository Structure
 
